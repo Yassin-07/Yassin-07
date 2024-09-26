@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Yassin-07. I am 26 years old and have recently completed my Msc Computer science Degree.
+# Hi 👋 I'm Yassin
+
+
+- 👋 I am 26 years old and have recently completed my Msc Computer science Degree.
 - 👀 I’m interested in all things Data and Web Development
 - 🌱 I’m currently learning a multitude of languages and hope to continue on this coding journey
 - 💞️ I’m looking to collaborate on all things Data and web dev
