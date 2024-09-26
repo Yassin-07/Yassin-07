@@ -1,10 +1,10 @@
-# Hi 👋 I'm Yassin
+# Hi 👋 I'm Yassin an Aspiring Data Analyst
 
 
 - 👋 I am 26 years old and have recently completed my Msc Computer science Degree.
-- 👀 I’m interested in all things Data and Web Development
-- 🌱 I’m currently learning a multitude of languages and hope to continue on this coding journey
-- 💞️ I’m looking to collaborate on all things Data and web dev
+- 👀 I’m interested in all things Data
+- 🌱 I’m currently strengthening my Python Knowledge
+- 💞️ I’m looking to collaborate on all things Data
 - 📫 How to reach me | codewithyassin07@gmail.com
 - ⚡ Fun fact: I was studying Economics in my Bachelors before I began my Journey in Computer Science 
 
