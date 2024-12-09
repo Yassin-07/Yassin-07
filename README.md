@@ -3,7 +3,7 @@
 
 - 👋 I am 26 years old and have recently completed my Msc Computer science Degree.
 - 👀 I’m interested in Business & Data.
-- 🌱 I’m currently developing skills within Excel, SQL, Power Bi, and Python
+- 🌱 I’m currently developing skills within Excel, SQL, Power BI, and Python
 - 💞️ I’m looking to collaborate on all things Data.
 - 📫 How to reach me | codewithyassin07@gmail.com
 - ⚡ Fun fact: I was studying Economics in my Bachelors before I began my Journey in Computer Science 
